@@ -1,0 +1,15 @@
+{
+    "name": "PWA test",
+    "short_name": "PWA test",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "My PWA test app using unity version 6.",
+    "icons": [{
+      "src": "TemplateData/icons/TEST-icon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
